@@ -1,0 +1,1 @@
+web: gunicorn rmis.wsgi --log-file
