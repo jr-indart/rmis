@@ -1,0 +1,6 @@
+.env
+.idea/
+.rmis/
+*.sqlite3
+*pyc
+__pycache__
